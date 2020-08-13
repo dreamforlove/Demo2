@@ -1,0 +1,110 @@
+2019-09-16 16:27:50:
+2019-09-16 16:27:50:开始安装Ndis Filter驱动
+2019-09-16 16:27:50:C:\Ruijie Supplicant\SuNdisFilter.inf
+2019-09-16 16:27:50:进入HrGetINetCfg
+2019-09-16 16:27:50:调用CoInitialize成功
+2019-09-16 16:27:50:调用CoCreateInstance成功
+2019-09-16 16:27:50:调用QueryInterface成功
+2019-09-16 16:27:50:begin AcquireWriteLock
+2019-09-16 16:27:50:申请到锁
+2019-09-16 16:27:50:调用pnc->Initialize成功
+2019-09-16 16:27:50:HrGetINetCfg成功申请到锁
+2019-09-16 16:27:50:调用HrGetINetCfg成功
+2019-09-16 16:27:50:进入HrReleaseINetCfg
+2019-09-16 16:27:55:SetupCopyOEMInf成功
+2019-09-16 16:27:55:进入HrInstallComponent
+2019-09-16 16:27:55:pnc->QueryNetCfgClass成功
+2019-09-16 16:27:55:pncClassSetup->Install成功
+2019-09-16 16:27:55:安装成功
+2019-09-16 16:27:55:调用HrInstallNetComponent成功
+2019-09-16 16:27:55:进入HrReleaseINetCfg
+2019-09-16 16:27:55:pnc->Uninitialize成功
+2019-09-16 16:27:55:pnc->QueryInterface成功，释放锁
+2019-10-15 10:21:11:
+2019-10-15 10:21:11:开始卸载Ndis Filter驱动
+2019-10-15 10:21:11:C:\Ruijie Supplicant\SuNdisFilter.inf
+2019-10-15 10:21:11:MS_RuiJieSuNdisFilter
+2019-10-15 10:21:11:进入HrGetINetCfg
+2019-10-15 10:21:11:调用CoInitialize成功
+2019-10-15 10:21:11:调用CoCreateInstance成功
+2019-10-15 10:21:11:调用QueryInterface成功
+2019-10-15 10:21:11:begin AcquireWriteLock
+2019-10-15 10:21:11:申请到锁
+2019-10-15 10:21:11:调用pnc->Initialize成功
+2019-10-15 10:21:11:HrGetINetCfg成功申请到锁
+2019-10-15 10:21:11:调用HrGetINetCfg成功
+2019-10-15 10:21:11:调用FindComponent成功
+2019-10-15 10:21:11:调用GetClassGuid成功
+2019-10-15 10:21:11:调用QueryNetCfgClass成功
+2019-10-15 10:21:11:调用QueryInterface成功
+2019-10-15 10:21:13:调用pncClassSetup->DeInstall成功
+2019-10-15 10:21:13:成功卸载驱动!
+2019-10-15 10:21:13:进入HrReleaseINetCfg
+2019-10-15 10:21:13:pnc->Uninitialize成功
+2019-10-15 10:21:13:pnc->QueryInterface成功，释放锁
+2019-10-15 10:31:48:
+2019-10-15 10:31:48:开始安装Ndis Filter驱动
+2019-10-15 10:31:48:C:\Program Files\锐捷网络\Ruijie Supplicant\SuNdisFilter.inf
+2019-10-15 10:31:48:进入HrGetINetCfg
+2019-10-15 10:31:48:调用CoInitialize成功
+2019-10-15 10:31:48:调用CoCreateInstance成功
+2019-10-15 10:31:48:调用QueryInterface成功
+2019-10-15 10:31:48:begin AcquireWriteLock
+2019-10-15 10:31:48:申请到锁
+2019-10-15 10:31:48:调用pnc->Initialize成功
+2019-10-15 10:31:48:HrGetINetCfg成功申请到锁
+2019-10-15 10:31:48:调用HrGetINetCfg成功
+2019-10-15 10:31:48:进入HrReleaseINetCfg
+2019-10-15 10:31:48:SetupCopyOEMInf成功
+2019-10-15 10:31:48:进入HrInstallComponent
+2019-10-15 10:31:48:pnc->QueryNetCfgClass成功
+2019-10-15 10:31:50:pncClassSetup->Install成功
+2019-10-15 10:31:50:安装成功
+2019-10-15 10:31:50:调用HrInstallNetComponent成功
+2019-10-15 10:31:50:进入HrReleaseINetCfg
+2019-10-15 10:31:50:pnc->Uninitialize成功
+2019-10-15 10:31:50:pnc->QueryInterface成功，释放锁
+2019-10-29 12:15:50:
+2019-10-29 12:15:50:开始卸载Ndis Filter驱动
+2019-10-29 12:15:50:C:\Program Files\锐捷网络\Ruijie Supplicant\SuNdisFilter.inf
+2019-10-29 12:15:50:MS_RuiJieSuNdisFilter
+2019-10-29 12:15:50:进入HrGetINetCfg
+2019-10-29 12:15:50:调用CoInitialize成功
+2019-10-29 12:15:50:调用CoCreateInstance成功
+2019-10-29 12:15:50:调用QueryInterface成功
+2019-10-29 12:15:50:begin AcquireWriteLock
+2019-10-29 12:15:50:申请到锁
+2019-10-29 12:15:50:调用pnc->Initialize成功
+2019-10-29 12:15:50:HrGetINetCfg成功申请到锁
+2019-10-29 12:15:50:调用HrGetINetCfg成功
+2019-10-29 12:15:50:调用FindComponent成功
+2019-10-29 12:15:50:调用GetClassGuid成功
+2019-10-29 12:15:50:调用QueryNetCfgClass成功
+2019-10-29 12:15:50:调用QueryInterface成功
+2019-10-29 12:15:51:调用pncClassSetup->DeInstall成功
+2019-10-29 12:15:51:成功卸载驱动!
+2019-10-29 12:15:51:进入HrReleaseINetCfg
+2019-10-29 12:15:51:pnc->Uninitialize成功
+2019-10-29 12:15:51:pnc->QueryInterface成功，释放锁
+2019-10-29 12:16:15:
+2019-10-29 12:16:15:开始安装Ndis Filter驱动
+2019-10-29 12:16:15:C:\Program Files\锐捷网络\Ruijie Supplicant\SuNdisFilter.inf
+2019-10-29 12:16:15:进入HrGetINetCfg
+2019-10-29 12:16:15:调用CoInitialize成功
+2019-10-29 12:16:15:调用CoCreateInstance成功
+2019-10-29 12:16:15:调用QueryInterface成功
+2019-10-29 12:16:15:begin AcquireWriteLock
+2019-10-29 12:16:15:申请到锁
+2019-10-29 12:16:15:调用pnc->Initialize成功
+2019-10-29 12:16:15:HrGetINetCfg成功申请到锁
+2019-10-29 12:16:15:调用HrGetINetCfg成功
+2019-10-29 12:16:15:进入HrReleaseINetCfg
+2019-10-29 12:16:15:SetupCopyOEMInf成功
+2019-10-29 12:16:15:进入HrInstallComponent
+2019-10-29 12:16:15:pnc->QueryNetCfgClass成功
+2019-10-29 12:16:16:pncClassSetup->Install成功
+2019-10-29 12:16:16:安装成功
+2019-10-29 12:16:16:调用HrInstallNetComponent成功
+2019-10-29 12:16:16:进入HrReleaseINetCfg
+2019-10-29 12:16:16:pnc->Uninitialize成功
+2019-10-29 12:16:16:pnc->QueryInterface成功，释放锁
